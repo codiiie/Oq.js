@@ -781,5 +781,4 @@ OQ.prototype.UPDATE = function(arrParam){
 
 } // OQ.prototype.UPDATE()
 
-let query = new OQ();
 
